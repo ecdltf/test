@@ -1,7 +1,7 @@
 local addonName, _ = ...
 
 --[ Config Begin ]=============================================================
-fx
+fx123
 -- newline
 -- another one
 
